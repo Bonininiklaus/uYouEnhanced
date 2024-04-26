@@ -17,7 +17,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url:
-        description: "The direct URL to the decrypted YouTube ipa"
+        description: "https://onedrive.live.com/?authkey=%21AIYm3u0imEfLf9k&id=6502C32F7AE685E6%2131348&cid=6502C32F7AE685E6&parId=root&parQt=sharedby&o=OneUp"
         default: ""
         required: true
         type: string
